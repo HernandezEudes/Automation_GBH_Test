@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="108036" started-at="2018-05-12T21:13:32Z" finished-at="2018-05-12T21:15:20Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="108036" started-at="2018-05-12T21:13:32Z" finished-at="2018-05-12T21:15:20Z">
+      <class name="tests.Open_WebPAge_Test">
+        <test-method status="PASS" signature="driverDefinition()[pri:0, instance:tests.Open_WebPAge_Test@1bce4f0a]" name="driverDefinition" is-config="true" duration-ms="27570" started-at="2018-05-12T21:13:32Z" finished-at="2018-05-12T21:13:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverDefinition -->
+        <test-method status="PASS" signature="portafolio_tab()[pri:1, instance:tests.Open_WebPAge_Test@1bce4f0a]" name="portafolio_tab" duration-ms="7963" started-at="2018-05-12T21:13:59Z" finished-at="2018-05-12T21:14:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- portafolio_tab -->
+        <test-method status="PASS" signature="empleos_tab()[pri:2, instance:tests.Open_WebPAge_Test@1bce4f0a]" name="empleos_tab" duration-ms="17695" started-at="2018-05-12T21:14:07Z" finished-at="2018-05-12T21:14:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- empleos_tab -->
+        <test-method status="PASS" signature="blog_tab()[pri:3, instance:tests.Open_WebPAge_Test@1bce4f0a]" name="blog_tab" duration-ms="5171" started-at="2018-05-12T21:14:25Z" finished-at="2018-05-12T21:14:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- blog_tab -->
+        <test-method status="PASS" signature="conocenos_tab()[pri:4, instance:tests.Open_WebPAge_Test@1bce4f0a]" name="conocenos_tab" duration-ms="49525" started-at="2018-05-12T21:14:30Z" finished-at="2018-05-12T21:15:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- conocenos_tab -->
+      </class> <!-- tests.Open_WebPAge_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
